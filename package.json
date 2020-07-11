@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "format": "prettier --write --parser typescript \"packages/**/*.ts?(x)\""
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

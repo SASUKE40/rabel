@@ -1,0 +1,21 @@
+{
+  "name": "rabel-client",
+  "version": "1.0.0",
+  "description": "A page builder based on react",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SASUKE40/rabel.git"
+  },
+  "author": "Edward Elric",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "builder",
+    "page builder"
+  ],
+  "bugs": {
+    "url": "https://github.com/SASUKE40/rabel/issues"
+  },
+  "homepage": "https://github.com/SASUKE40/rabel"
+}
